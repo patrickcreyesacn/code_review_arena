@@ -55,7 +55,7 @@ streamlit run app.py
 ## 📁 Project Structure
 
 ```
-code_arena/
+code_review_arena/
 ├── app.py                      # Streamlit UI + orchestration
 ├── agents/
 │   ├── __init__.py
