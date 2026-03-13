@@ -71,7 +71,7 @@ code_review_arena/
 
 - **Frontend:** Streamlit
 - **Backend:** Python
-- **LLM:** Google Gemini 1.5 Flash (via `google-generativeai`)
+- **LLM:** Google Gemini 2.5 Flash (via `google-genai`)
 - **Agent Pattern:** Parallel execution (threading) + sequential judge
 
 ## 📊 Scoring
