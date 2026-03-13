@@ -34,9 +34,9 @@ pip install -r requirements.txt
 ```
 
 ### 2. Get your free Gemini API key
--Go to: https://aistudio.google.com/app/apikey
--Copy the generated API key
--Then create .env file inside the project folder and type GEMINI_API_KEY=[paste Gemini API key here]
+Go to: https://aistudio.google.com/app/apikey
+Copy the generated API key
+Then create .env file inside the project folder and type GEMINI_API_KEY=[paste Gemini API key here]
 
 
 ### 3. Run the app
@@ -63,6 +63,7 @@ code_arena/
 │   ├── performance_agent.py    # Agent 2: Performance Reviewer
 │   └── judge_agent.py          # Agent 3: Judge / Synthesizer
 ├── requirements.txt
+├── .env
 └── README.md
 ```
 
